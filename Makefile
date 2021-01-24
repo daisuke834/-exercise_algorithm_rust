@@ -1,11 +1,11 @@
 CARGO_CMD=cargo
 
 .PHONY: all
-all: build lint test
+all: lint build test run
 
 .PHONY: run
 run: build
-	$(CARGO_CMD) run
+	cat input.txt | $(CARGO_CMD) run
 
 .PHONY: build
 build:

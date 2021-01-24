@@ -1,5 +1,5 @@
 [package]
-name = "exercise_algorithm_rust"
+name = "AtCoder-Rust"
 version = "0.1.0"
 authors = ["Daisuke Hashimoto"]
 edition = "2018"
