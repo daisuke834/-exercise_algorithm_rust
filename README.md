@@ -1,1 +1,1 @@
-# -exercise_algorithm_rust
+# project-template-rust
